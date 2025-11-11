@@ -86,14 +86,3 @@ SOLID · Design Patterns · Testes Automatizados · Git · Clean Code · Boas Pr
 Sou apaixonado por **tecnologia, dados e arquitetura de software**, buscando sempre unir **engenharia e ciência** para resolver problemas reais e gerar impacto com base em **informações e evidências**.
 
 ---
-
-⭐️ *"O melhor código é aquele que transforma dados em decisões."*
-
----
-
-## 📊 Projetos Sugeridos (para destacar no GitHub)
-
-- `data-analytics-hospitalar` → ETL + Pandas + Plotly + Dash  
-- `ml-basketball-predictor` → machine learning esportivo (relacionado ao TCC)  
-- `python-sql-automation` → automação de planilhas e scripts SQL  
-- `django-rest-insights` → API REST com análise de dados e dashboard interativo  
